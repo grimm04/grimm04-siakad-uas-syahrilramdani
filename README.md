@@ -1,13 +1,5 @@
 <h1 align="center">SIAKAD - SISTEM INFORMASI AKADEMIK SEKOLAH</h1>
  
-- Autentikasi Admin
-- User CRUD
-- Jadwal CRUD
-- Kelas CRUD
-- Mata Pelajaran CRUD
-- Guru CRUD 
-- Dan lain-lain
-  
 
 **default user**
 
