@@ -21,7 +21,7 @@
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/grimm04/siakad-uas-syahrilramdani.git
+git clone https://github.com/grimm04/grimm04-siakad-uas-syahrilramdani.git
 cd siakad-uas-syahrilramdani
 composer install
 cp .env.example .env
