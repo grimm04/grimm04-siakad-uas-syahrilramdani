@@ -28,18 +28,20 @@ DB_USERNAME=root
 DB_PASSWORD=
 ```
 
-3. **Instalasi website**
+3. **Generate dbtable**
 
 ```bash
 php artisan key:generate
 php artisan migrate --seed
 ```
 
-4. **Jalankan website**
+4. **Or Datadummy**
+```bash
+database/dump/ex_akademik.sql
+``` 
+5. **Jalankan website**
 
 ```bash
 php artisan serve
 ``` 
 
-5. **Or Datadummy**
-database/dump/ex_akademik.sql
