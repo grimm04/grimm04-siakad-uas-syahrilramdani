@@ -48,3 +48,6 @@ php artisan migrate --seed
 ```bash
 php artisan serve
 ``` 
+
+5. **Or Datadummy**
+database/dump/ex_akademik.sql
